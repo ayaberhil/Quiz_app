@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238977599457",
+    "project_id": "quiz-exam-d393b",
+    "storage_bucket": "quiz-exam-d393b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238977599457:android:9ad9e6d6def35abe9c34a0",
+        "android_client_info": {
+          "package_name": "com.example.quizz_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBM4u_Bee3SurA76-xzfznHoy2Oid6_t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
